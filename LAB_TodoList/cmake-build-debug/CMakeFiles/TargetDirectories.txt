@@ -1,0 +1,3 @@
+C:/Users/seppi/CLionProjects/LAB_TodoList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/seppi/CLionProjects/LAB_TodoList/cmake-build-debug/CMakeFiles/LAB_TodoList.dir
+C:/Users/seppi/CLionProjects/LAB_TodoList/cmake-build-debug/CMakeFiles/edit_cache.dir
